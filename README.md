@@ -1,4 +1,5 @@
 So this is my first ever project that gets a Github repository.
+
 This project is a custom 6-key macropad featuring:
 6 mechanical switches for macros
 1 dedicated mode switch
