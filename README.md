@@ -20,13 +20,16 @@ Volume control
 
 Fully programmable macros
 
-And I want to make it a Plug & Play (USB HID device)
+And I want to make it a Plug \& Play (USB HID device)
 Hardware components:
-Arduino Pro Micro
+Xiao RP2040
 7x MX switches
+
+3x SK6812 MINI LED
 A rotary encoder
 An OLED panel 128x32
 7x Diodes (DO-35)
 Custom made PCB
 
 Inspired by Hackclub Blueprint
+
