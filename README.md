@@ -35,6 +35,7 @@ Here's a screenshot of the schematic:
 <img width="1044" height="693" alt="Screenshot 2026-03-02 145127" src="https://github.com/user-attachments/assets/12f154e7-cd5b-46c6-8f07-4e2a6804664e" />
 
 The PCB:
+
 <img width="608" height="487" alt="Screenshot 2026-03-02 145405" src="https://github.com/user-attachments/assets/86396dcb-1965-4dfc-8ae3-afeb6035bfe1" />
 <img width="699" height="547" alt="Screenshot 2026-03-02 145425" src="https://github.com/user-attachments/assets/affcb3f0-7d8d-4892-af56-bf425c01c10c" />
 
